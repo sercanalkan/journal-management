@@ -4,123 +4,8 @@
     <projectFile>JournalManagement/JournalManagement.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e38d8e4f-4282-4dfd-9d94-e7faab220140" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.JournalManagement/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.JournalManagement/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.JournalManagement/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.JournalManagement/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.JournalManagement/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.JournalManagement/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Controllers/HomeController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/JournalManagement.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Models/Article.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Models/BaseModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Models/Editor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Models/ErrorViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Models/MySqlSettings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Models/Settings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Services/ArticleService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Services/EditorService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/ViewModels/ArticleViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/ViewModels/BaseViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Views/Home/Index.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Views/Home/Privacy.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Views/Shared/Error.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Views/_ViewImports.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/Views/_ViewStart.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/appsettings.Production.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/bin/Debug/netcoreapp3.1/JournalManagement.Views.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/bin/Debug/netcoreapp3.1/JournalManagement.Views.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/bin/Debug/netcoreapp3.1/JournalManagement.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/bin/Debug/netcoreapp3.1/JournalManagement.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/bin/Debug/netcoreapp3.1/JournalManagement.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/bin/Debug/netcoreapp3.1/JournalManagement.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/bin/Debug/netcoreapp3.1/JournalManagement.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/bin/Debug/netcoreapp3.1/appsettings.Production.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.RazorAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.RazorAssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.RazorCoreGenerate.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.RazorTargetAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.RazorTargetAssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.TagHelpers.input.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.TagHelpers.output.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.Views.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.Views.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/JournalManagement.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/staticwebassets/JournalManagement.StaticWebAssets.Manifest.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/Debug/netcoreapp3.1/staticwebassets/JournalManagement.StaticWebAssets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/JournalManagement.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/JournalManagement.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/JournalManagement.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/css/site.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/js/site.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JournalManagement/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
+    <list default="true" id="e38d8e4f-4282-4dfd-9d94-e7faab220140" name="Default Changelist" comment="init">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +35,7 @@
         <option value="$PROJECT_DIR$/JournalManagement/Services/ArticleService.cs" />
         <option value="$PROJECT_DIR$/JournalManagement/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/JournalManagement/Services/EditorService.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -206,8 +92,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614781945144</updated>
-      <workItem from="1614781953847" duration="4314000" />
+      <workItem from="1614781953847" duration="4616000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1614796210583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614796210583</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1614796380206</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614796380206</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +116,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1122" y="986" key="Github.ShareDialog" timestamp="1614796130156">
@@ -237,10 +140,10 @@
       <screen x="-1920" y="515" width="1920" height="1177" />
     </state>
     <state width="1878" height="312" key="GridCell.Tab.0.right/0.23.3008.1616/-1920.515.1920.1177@-1920.515.1920.1177" timestamp="1614796186928" />
-    <state x="-1357" y="822" key="Vcs.Push.Dialog.v2" timestamp="1614796170628">
+    <state x="-1357" y="822" key="Vcs.Push.Dialog.v2" timestamp="1614796381408">
       <screen x="-1920" y="515" width="1920" height="1177" />
     </state>
-    <state x="-1357" y="822" key="Vcs.Push.Dialog.v2/0.23.3008.1616/-1920.515.1920.1177@-1920.515.1920.1177" timestamp="1614796170628" />
+    <state x="-1357" y="822" key="Vcs.Push.Dialog.v2/0.23.3008.1616/-1920.515.1920.1177@-1920.515.1920.1177" timestamp="1614796381408" />
     <state x="-1135" y="983" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1614796154239">
       <screen x="-1920" y="515" width="1920" height="1177" />
     </state>
